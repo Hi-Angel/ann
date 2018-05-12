@@ -1,0 +1,8 @@
+[package]
+name = "rnn"
+version = "0.1.0"
+authors = ["Konstantine Kharlamov <Hi-Angel@yandex.ru>"]
+
+[dependencies]
+nalgebra = "0.14.1"
+typenum = "1.5.1"
